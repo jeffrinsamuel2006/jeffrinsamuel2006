@@ -12,11 +12,10 @@
 
 <!-- Responsive Banner -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2ECC71&text=[YOUR_NAME]&fontColor=ffffff&fontSize=48&fontAlignY=40&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=60">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:E8F5E9,50:C8E6C9,100:2ECC71&text=[YOUR_NAME]&fontColor=1B5E20&fontSize=48&fontAlignY=40&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=60">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:E8F5E9,50:C8E6C9,100:2ECC71&text=[YOUR_NAME]&fontColor=1B5E20&fontSize=48&fontAlignY=40">
-</picture>
+  <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
+   <img alt="Logo for Jeffrin Samuel C" src="art/header-light.png">
+  </picture>
 
 <br><br>
 
