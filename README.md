@@ -79,9 +79,9 @@ I'm **Jeffrin**, a passionate developer who loves building impactful software an
 
 # 📊 GitHub Analytics
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=[YOUR_USERNAME]&theme=transparent&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=F8BBD0&dates=999999"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=jeffrinsamuel2006&theme=transparent&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=F8BBD0&dates=999999"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=transparent&title_color=EF93C4&icon_color=FF69B4&text_color=999999&border_color=EF93C4"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jeffrinsamuel2006&show_icons=true&theme=transparent&title_color=EF93C4&icon_color=FF69B4&text_color=999999&border_color=EF93C4"/>
 
 <br><br>
 
