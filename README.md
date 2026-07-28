@@ -19,7 +19,7 @@
 
 <br><br>
 
-![](https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&style=for-the-badge&color=2ECC71)
+![](https://komarev.com/ghpvc/?username=jeffrinsamuel2006&style=for-the-badge&color=2ECC71)
 ![](https://img.shields.io/github/followers/[YOUR_USERNAME]?style=for-the-badge&color=2ECC71&labelColor=1B5E20)
 ![](https://img.shields.io/github/stars/[YOUR_USERNAME]?style=for-the-badge&color=2ECC71&labelColor=1B5E20)
 
