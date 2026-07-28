@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# Hey there, I'm [YOUR_NAME] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/>
+# Hey there, I'm Jeff <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=2ECC71&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;Open+Source+Contributor;AI+%7C+Cloud+%7C+Automation;Always+Learning+Something+New" />
 
