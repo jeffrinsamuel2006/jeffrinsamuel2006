@@ -36,15 +36,14 @@
 
 ### 👨‍💻 Hello!
 
-I'm **[YOUR_NAME]**, a passionate developer who loves building impactful software and exploring emerging technologies.
+I'm **Jeffrin**, a passionate developer who loves building impactful software and exploring emerging technologies.
 
 ### 🚀 Current Focus
 
-- 🔭 Working on **[CURRENT_PROJECT]**
-- 🌱 Learning **[CURRENT_TECHNOLOGY]**
+- 🔭 Working on **Career Intelligence AI**
+- 🌱 Learning **DevOps**
 - 🤝 Looking to collaborate on **Open Source**
 - 💡 Interested in **AI, Cybersecurity, Cloud & Automation**
-- ⚡ Fun Fact: **[FUN_FACT]**
 
 ### 🎯 Goals
 
